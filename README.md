@@ -7,6 +7,6 @@ Enjoy.
 
 
 npm install
-npm run server
+npm start 
 
 http://localhost:3033
